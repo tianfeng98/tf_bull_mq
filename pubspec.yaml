@@ -1,7 +1,7 @@
 name: tf_bull_mq
 description: A backend-agnostic job queue package for Dart.
 version: 1.0.0
-# repository: https://github.com/my_org/my_repo
+repository: https://github.com/tianfeng98/tf_bull_mq
 
 environment:
   # 实测 Dart 3.9.2（Flutter 3.35.7）下 `dart analyze` 全量无问题，约束下限取 3.9.0
